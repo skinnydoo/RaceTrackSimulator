@@ -1,0 +1,9 @@
+c:\users\simel\documents\visual studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe.config
+c:\users\simel\documents\visual studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csprojResolveAssemblyReference.cache
+c:\users\simel\documents\visual studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Properties.Resources.resources
+c:\users\simel\documents\visual studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.csproj.GenerateResource.Cache
+C:\Users\Simel\Documents\Visual Studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.exe
+C:\Users\Simel\Documents\Visual Studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\bin\Debug\Racetrack Simulator.pdb
+C:\Users\Simel\Documents\Visual Studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack_Simulator.Form1.resources
+C:\Users\Simel\Documents\Visual Studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.exe
+C:\Users\Simel\Documents\Visual Studio 2013\Projects\Racetrack Simulator\Racetrack Simulator\obj\Debug\Racetrack Simulator.pdb
